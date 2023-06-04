@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-   <main>
+   <div className={"bg-amber-50"}>
      <h1>HERE IS INTERMARKET</h1>
-   </main>
+   </div>
   )
 }
